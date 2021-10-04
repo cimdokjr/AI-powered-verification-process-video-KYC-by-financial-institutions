@@ -8,7 +8,7 @@
 ### [Dharun Gautham J](https://www.linkedin.com/in/dharungautham/ "Dharun Gautham")
 
 ## Features
-- Faster process
+- Faster processing
 - High Accurate Output Result.
 - Best for Implementing on python based web application or APIs.
 - Best implementation for College students and freshers for project creation.
