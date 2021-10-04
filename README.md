@@ -1,7 +1,10 @@
 # AI-powered verification process/video KYC by financial institutions
 <p align="center"><img src="https://github.com/cimdokjr/AI-powered-verification-process-video-KYC-by-financial-institutions/blob/main/Logo.jpg?raw=true" alt="Brain+Machine" height="218" width="350"></p>
 
-![Generic badge](https://img.shields.io/badge/Python-v3-blue.svg) ![Generic badge](https://img.shields.io/badge/pip-21.2.4-red.svg)  ![Generic badge](https://img.shields.io/badge/cv2-4.5.3-orange.svg) ![Generic badge](https://img.shields.io/badge/pytesseract-0.3.8-green.svg) ![Generic badge](https://img.shields.io/badge/numpy-1.19.5-blue.svg) ![Generic badge](https://img.shields.io/badge/face_recognition-1.2.3-yellow.svg) ![Generic badge](https://img.shields.io/badge/scikit-image-0.18.3-blue.svg)
+![Generic badge](https://img.shields.io/badge/Python-v3-blue.svg) ![Generic badge](https://img.shields.io/badge/pip-21.2.4-red.svg)  
+![Generic badge](https://img.shields.io/badge/cv2-4.5.3-orange.svg) ![Generic badge](https://img.shields.io/badge/scikit-image-0.18.3-blue.svg)
+![Generic badge](https://img.shields.io/badge/pytesseract-0.3.8-green.svg) ![Generic badge](https://img.shields.io/badge/numpy-1.19.5-blue.svg) 
+![Generic badge](https://img.shields.io/badge/face_recognition-1.2.3-yellow.svg) 
 
 <h2><img src="https://cdn2.iconfinder.com/data/icons/artificial-intelligence-6/64/ArtificialIntelligence9-512.png" alt="Brain+Machine" height="38" width="38"> Creators </h2>
 
