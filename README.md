@@ -5,7 +5,7 @@
 
 <h2><img src="https://cdn2.iconfinder.com/data/icons/artificial-intelligence-6/64/ArtificialIntelligence9-512.png" alt="Brain+Machine" height="38" width="38"> Creators </h2>
 
-### [Dharun Gautham]("https://www.linkedin.com/in/dharungautham/")
+### [Dharun Gautham](https://www.linkedin.com/in/dharungautham/ "Dharun Gautham")
 
 ## Features
 - Faster process
