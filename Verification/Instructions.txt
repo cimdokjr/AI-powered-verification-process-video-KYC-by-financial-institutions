@@ -1,0 +1,3 @@
+* Store Aadhar and/or Pan card in Source folder.
+* Store input photograph, video etc,.. in Input folder.
+* Enter correct path loaction whenever "..." is given in code.
