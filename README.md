@@ -20,8 +20,11 @@
 This library is compatible with both *windows* and *Linux system* you can just use **PIP command** to install this library on your system:
 
 ```shell
-pip install face_recognition
+pip install cv2
 pip install scikit-image
+pip install pytesseract
+pip install numpy
+pip install face_recognition
 ```
 
 If you are facing any VS C++ 14 related issue in windows during installation, kindly refer to following solution: [Pip error: Microsoft Visual C++ 14.0 is required](https://stackoverflow.com/questions/44951456/pip-error-microsoft-visual-c-14-0-is-required "Pip error: Microsoft Visual C++ 14.0 is required")
