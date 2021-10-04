@@ -32,7 +32,7 @@ If you are facing any VS C++ 14 related issue in windows during installation, ki
 
 OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library.
 
-###2) skimage == 0.18.3 
+##2) skimage == 0.18.3 
 
 scikit-image (a.k.a. skimage ) is a collection of algorithms for image processing and computer vision.
 
