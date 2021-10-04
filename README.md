@@ -12,6 +12,7 @@
 - High Accurate Output Result.
 - Best for Implementing on python based web application or APIs.
 - Best implementation for College students and freshers for project creation.
+- Ability to extract Aadhar and Pan numbers from given data.
 - Applications are Images based attendance marking, similarity/difference detection, user verifications in financial institutions and other image-based platforms that want to implement image verification and measure changes in images.
 
 ## Installation
@@ -25,9 +26,29 @@ pip install scikit-image
 
 If you are facing any VS C++ 14 related issue in windows during installation, kindly refer to following solution: [Pip error: Microsoft Visual C++ 14.0 is required](https://stackoverflow.com/questions/44951456/pip-error-microsoft-visual-c-14-0-is-required "Pip error: Microsoft Visual C++ 14.0 is required")
 
+## Requirements
+
+###1) cv2 == 4.5.3
+
+OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library.
+
+###2) skimage == 0.18.3 
+
+scikit-image (a.k.a. skimage ) is a collection of algorithms for image processing and computer vision.
+
+###3) pytesseract ==0.3.8 
+
+Python-tesseract is an optical character recognition (OCR) tool for python. That is, it will recognize and “read” the text embedded in images.
+
+###4) numpy == 1.19.5
+
+NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+
+###5) face_recognition ==1.2.3 
+
+Recognize and manipulate faces from Python or from the command line with the world's simplest face recognition library. Built using dlib's state-of-the-art face recognition built with deep learning. The model has an accuracy of 99.38% on the Labeled Faces in the Wild benchmark.
+
 ## License
-
-
 
     MIT License
     
